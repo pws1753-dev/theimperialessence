@@ -52,7 +52,7 @@ export function Footer() {
                 alt="Imperial Essence Trading LLC Logo"
                 width={210}
                 height={90}
-                className="h-16 w-auto object-contain filter drop-shadow-[0_2px_8px_rgba(212,175,55,0.3)]"
+                className="h-16 w-auto object-contain sm:h-16 lg:h-[5.25rem] filter drop-shadow-[0_2px_8px_rgba(212,175,55,0.3)]"
               />
             </Link>
 

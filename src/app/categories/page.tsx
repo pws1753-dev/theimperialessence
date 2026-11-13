@@ -16,8 +16,8 @@ export default function CategoriesPage() {
         eyebrow="Product Categories"
         title="8 Luxury Wholesale Categories"
         copy="Category-led B2B sourcing across luxury perfumery, niche fragrances, cosmetics, skincare, fashion & textiles, travel sets, accessories, and jewelry."
-        backgroundImage="/images/brand-free-images/26-luxury-handbag-boutique-display.webp"
-        backgroundAlt="Luxury handbag boutique display representing Imperial Essence product categories"
+        backgroundImage="/images/categories-hero-banner.jpg"
+        backgroundAlt="Curated luxury wholesale collection of perfumes, skincare, cosmetics, textiles, travel sets, and jewelry"
       />
       <CategoryGrid />
       <CategoryInteractiveGallery />
