@@ -63,9 +63,6 @@ export function AboutStorySection() {
                   <MapPin className="h-3.5 w-3.5 text-[#b8860b]" />
                   {founder.origin}
                 </p>
-                <p className="text-xs text-[#4a3c28] leading-relaxed pt-1 font-medium sm:text-sm">
-                  {founder.bio}
-                </p>
               </div>
             </article>
           ))}
